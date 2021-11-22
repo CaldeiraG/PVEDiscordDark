@@ -1,5 +1,5 @@
 
-
+## This fork reverts the color scheme back to the old blurple
 
 
 ![](https://i.imgur.com/SnlCyHF.png)
