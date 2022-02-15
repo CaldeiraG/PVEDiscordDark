@@ -1,5 +1,5 @@
 
-## This fork reverts the color scheme back to the old blurple
+## This fork reverts the color scheme back to the old blurple [![wakatime](https://wakatime.com/badge/user/0c2eb4e9-64a3-4002-8eb0-dea543a982e6/project/4b7ee877-f422-4939-a4e1-8eb135871756.svg)](https://wakatime.com/badge/user/0c2eb4e9-64a3-4002-8eb0-dea543a982e6/project/4b7ee877-f422-4939-a4e1-8eb135871756)
 
 
 ![](https://i.imgur.com/SnlCyHF.png)
