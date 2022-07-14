@@ -1,5 +1,5 @@
 
-
+## This fork reverts the color scheme back to the old blurple [![wakatime](https://wakatime.com/badge/user/0c2eb4e9-64a3-4002-8eb0-dea543a982e6/project/4b7ee877-f422-4939-a4e1-8eb135871756.svg)](https://wakatime.com/badge/user/0c2eb4e9-64a3-4002-8eb0-dea543a982e6/project/4b7ee877-f422-4939-a4e1-8eb135871756)
 
 
 ![](https://i.imgur.com/SnlCyHF.png)
@@ -13,12 +13,12 @@ The theme now runs its own JavaScript code which patches the colors for certain 
 The installation is done via the CLI utility. Run the following commands on the PVE node serving the Web UI:
 
 ```
-~# wget https://raw.githubusercontent.com/Weilbyte/PVEDiscordDark/master/PVEDiscordDark.sh
+~# wget https://raw.githubusercontent.com/CaldeiraG/PVEDiscordDark/master/PVEDiscordDark.sh
 ~# bash PVEDiscordDark.sh install
 ```
 Or this oneliner
 ```
-bash <(curl -s https://raw.githubusercontent.com/Weilbyte/PVEDiscordDark/master/PVEDiscordDark.sh ) install
+bash <(curl -s https://raw.githubusercontent.com/CaldeiraG/PVEDiscordDark/master/PVEDiscordDark.sh ) install
 ```
 
 
